@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html, Css and JavaScript**
 
-- 📫 How to reach me **sogunledun@gmail.com**
+- 📫 How to reach me **tunnexweb@gmail.com**
 
 - ⚡ Fun fact **I love Music**
 
