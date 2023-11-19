@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Segun Ogunledun</h1>
+<h1 align="center">Hi 👋, I'm Tunnex</h1>
 <h3 align="center">I am an Expert WEB DESIGNER with over 2 years of experience, my work here is simple. I will create a professional design for the web with my digital marketing skills to fascinate easy understanding design and SEO Friendly websites.</h3>
 
 - 🌱 I’m currently learning **Node, Express and MongoDB**
